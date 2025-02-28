@@ -1,2 +1,2 @@
-# universityInfo
+# Varsity information
 Android App
